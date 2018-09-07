@@ -22,13 +22,13 @@
 
 // Considering the follow voltage values for each li-ion battery cell
 // State of charge 		| voltage
-#define LI_ION_CELL_VOLTS_100   4.06
-#define LI_ION_CELL_VOLTS_80    3.93
-#define LI_ION_CELL_VOLTS_60    3.78
-#define LI_ION_CELL_VOLTS_40    3.60
-#define LI_ION_CELL_VOLTS_20    3.38
-#define LI_ION_CELL_VOLTS_10    3.25
-#define LI_ION_CELL_VOLTS_0     3.00
+#define LI_ION_CELL_VOLTS_100   4.05
+#define LI_ION_CELL_VOLTS_80    3.90
+#define LI_ION_CELL_VOLTS_60    3.70
+#define LI_ION_CELL_VOLTS_40    3.50
+#define LI_ION_CELL_VOLTS_20    3.25
+#define LI_ION_CELL_VOLTS_10    3.10
+#define LI_ION_CELL_VOLTS_0     2.90
 
 // *************************************************************************** //
 // MOTOR CONTROLLER
